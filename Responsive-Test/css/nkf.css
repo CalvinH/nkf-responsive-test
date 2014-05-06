@@ -44,7 +44,7 @@
         .primary_nav .top-bar .title-area .toggle-topbar a::after {
           box-shadow: 0 10px 0 1px black, 0 16px 0 1px black, 0 22px 0 1px black; }
   .primary_nav .top-bar.expanded {
-    height: 555px; }
+    height: 445px; }
   @media only screen and (min-width: 740px) and (max-width: 1029px) { }
   @media only screen and (max-width: 739px) { }
   .primary_nav .top-bar .right {
