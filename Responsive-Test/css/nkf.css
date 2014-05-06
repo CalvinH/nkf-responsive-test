@@ -60,7 +60,9 @@
     @media only screen and (min-width: 740px) and (max-width: 1029px) { }
     @media only screen and (max-width: 739px) {
       .primary_nav .top-bar .left {
-        margin-left: 0; } }
+        margin-left: 0;
+        width: 50%;
+        float: left; } }
   .primary_nav .top-bar .button {
     line-height: 24px; }
 
