@@ -3,7 +3,7 @@
   @media only screen and (min-width: 740px) and (max-width: 1029px) {
     .primary_nav .top-bar {
       height: 80px; } }
-  @media only screen and (max-width: 739px) {
+  @media only screen and (max-width: 640px) {
     .primary_nav .top-bar {
       height: 230px; } }
   .primary_nav .top-bar .title-area {
@@ -11,7 +11,7 @@
     @media only screen and (min-width: 740px) and (max-width: 1029px) {
       .primary_nav .top-bar .title-area {
         height: 80px; } }
-    @media only screen and (max-width: 739px) {
+    @media only screen and (max-width: 640px) {
       .primary_nav .top-bar .title-area {
         height: 120px; } }
     .primary_nav .top-bar .title-area h1 {
@@ -22,18 +22,21 @@
       border-right: 1px solid #eee;
       border-bottom: 1px solid #eee; }
       @media only screen and (min-width: 740px) and (max-width: 1029px) { }
-      @media only screen and (max-width: 739px) {
+      @media only screen and (min-width: 641px) and (max-width: 740px) {
+        .primary_nav .top-bar .title-area h1 {
+          width: 120px; } }
+      @media only screen and (max-width: 640px) {
         .primary_nav .top-bar .title-area h1 {
           height: 120px;
           width: 100%;
           border: none;
           text-align: center; } }
       @media only screen and (min-width: 740px) and (max-width: 1029px) { }
-      @media only screen and (max-width: 739px) {
+      @media only screen and (max-width: 640px) {
         .primary_nav .top-bar .title-area h1 a {
           width: 100%; } }
       @media only screen and (min-width: 740px) and (max-width: 1029px) { }
-      @media only screen and (max-width: 739px) {
+      @media only screen and (max-width: 640px) {
         .primary_nav .top-bar .title-area h1 img {
           height: 85px;
           width: auto; } }
@@ -45,24 +48,36 @@
           box-shadow: 0 10px 0 1px black, 0 16px 0 1px black, 0 22px 0 1px black; }
   .primary_nav .top-bar.expanded {
     height: 445px; }
-  @media only screen and (min-width: 740px) and (max-width: 1029px) { }
-  @media only screen and (max-width: 739px) { }
+  @media only screen and (min-width: 740px) and (max-width: 1029px) {
+    .primary_nav .top-bar .top-bar-section {
+      margin-left: 100px; } }
+  @media only screen and (min-width: 641px) and (max-width: 740px) {
+    .primary_nav .top-bar .top-bar-section {
+      margin-left: 120px; } }
+  @media only screen and (max-width: 640px) { }
   .primary_nav .top-bar .right {
     margin-left: 0; }
-    @media only screen and (min-width: 740px) and (max-width: 1029px) {
+    @media only screen and (min-width: 740px) and (max-width: 1029px) { }
+    @media only screen and (min-width: 641px) and (max-width: 740px) {
       .primary_nav .top-bar .right {
-        margin-left: 0; } }
-    @media only screen and (max-width: 739px) {
+        margin-left: 0;
+        width: 100%; } }
+    @media only screen and (max-width: 640px) {
       .primary_nav .top-bar .right {
         margin-left: 0; } }
   .primary_nav .top-bar .left {
     margin-left: 80px; }
-    @media only screen and (min-width: 740px) and (max-width: 1029px) { }
-    @media only screen and (max-width: 739px) {
+    @media only screen and (min-width: 740px) and (max-width: 1029px) {
+      .primary_nav .top-bar .left {
+        margin-left: 0; } }
+    @media only screen and (min-width: 641px) and (max-width: 740px) {
+      .primary_nav .top-bar .left {
+        margin-left: 0; } }
+    @media only screen and (max-width: 640px) {
       .primary_nav .top-bar .left {
         margin-left: 0; } }
     @media only screen and (min-width: 740px) and (max-width: 1029px) { }
-    @media only screen and (max-width: 739px) {
+    @media only screen and (max-width: 640px) {
       .primary_nav .top-bar .left li {
         width: 50%;
         float: left; } }
