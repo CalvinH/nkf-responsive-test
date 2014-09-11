@@ -1,0 +1,756 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"pro",
+				"product"
+			],
+			[
+				"com",
+				"components"
+			],
+			[
+				"border",
+				"border-box"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"table",
+				"tablet-breakpoint"
+			],
+			[
+				"list",
+				"list-style-position"
+			],
+			[
+				"main-t",
+				"main-three-column"
+			],
+			[
+				"main-two",
+				"main-two-column-secondary"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"wr",
+				"writeFile"
+			],
+			[
+				"ht",
+				"htmlToText"
+			],
+			[
+				"html",
+				"html-to-text"
+			],
+			[
+				"image",
+				"imageoptim"
+			],
+			[
+				"requ",
+				"request"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"F",
+				"Font-Awesome"
+			],
+			[
+				"o",
+				"optim"
+			],
+			[
+				"resize",
+				"resize-images"
+			],
+			[
+				"imag",
+				"imagemin"
+			],
+			[
+				"thm",
+				"thumbnail-box"
+			],
+			[
+				"thumb",
+				"thumbnail-x"
+			],
+			[
+				"borde",
+				"border-box"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"landn",
+				"landingpage-content"
+			],
+			[
+				"landin",
+				"landingpage-content-footnotes"
+			],
+			[
+				"bak",
+				"background"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"prima",
+				"primary-color"
+			],
+			[
+				"bakc",
+				"background-color"
+			],
+			[
+				"black",
+				"black-color"
+			],
+			[
+				"black-",
+				"black-color-lightest"
+			],
+			[
+				"primar",
+				"primary-color-darker"
+			],
+			[
+				"prim",
+				"primary-color-dark"
+			],
+			[
+				"magin",
+				"margin-bottom"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"bac",
+				"background-repeat"
+			],
+			[
+				"code",
+				"codeschool"
+			],
+			[
+				"mys",
+				"mysql"
+			],
+			[
+				"ki",
+				"kickstarter"
+			],
+			[
+				"j",
+				"justgiving"
+			],
+			[
+				"js",
+				"jsdb"
+			],
+			[
+				"jq",
+				"jqueryui"
+			],
+			[
+				"google",
+				"googleplus"
+			],
+			[
+				"sky",
+				"skydrive"
+			],
+			[
+				"stac",
+				"stackexchange"
+			],
+			[
+				"ex",
+				"exfm"
+			],
+			[
+				"coder",
+				"coderbits"
+			],
+			[
+				"bor",
+				"border-box"
+			],
+			[
+				"bx",
+				"bxslider-2"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"drop",
+				"dropdown-menu"
+			],
+			[
+				"pri",
+				"primary-color"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"bacgr",
+				"background-size"
+			],
+			[
+				"PMS-3",
+				"PMS-383-color"
+			],
+			[
+				"pms",
+				"PMS-274-color"
+			],
+			[
+				"light",
+				"lighten"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"selected_items":
+		[
+			[
+				"Pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: preda",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"Packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 529.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"Install Package",
+			"Package Control: Install Package",
+			"Pack Controll: Install Package"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/calvinh/Sites/GitHub/nkf-responsive-test/foundation/haml",
+		"/Users/calvinh/Sites/GitHub/nkf-responsive-test/foundation/js",
+		"/Users/calvinh/Sites/GitHub/nkf-responsive-test/foundation/scss/modules",
+		"/Users/calvinh/Sites/GitHub/CodeKit/foundation/bower_components",
+		"/Users/calvinh/Sites/GitHub/CodeKit/foundation/js"
+	],
+	"file_history":
+	[
+		"/Users/calvinh/Sites/GitHub/nkf-responsive-test/foundation/haml/_partial_header.haml",
+		"/Users/calvinh/Sites/GitHub/nkf-responsive-test/foundation/js/foundation.js",
+		"/Users/calvinh/Sites/GitHub/nkf-responsive-test/foundation/js/modernizr.js",
+		"/Users/calvinh/Sites/GitHub/nkf-responsive-test/foundation/build/js/foundation-min.js",
+		"/Users/calvinh/Sites/GitHub/nkf-responsive-test/foundation/scss/modules/_primary_nav.scss",
+		"/Users/calvinh/Sites/GitHub/nkf-responsive-test/foundation/haml/_partial_footer.haml",
+		"/Users/calvinh/Sites/GitHub/nkf-responsive-test/foundation/build/js/script.js",
+		"/Users/calvinh/Sites/GitHub/nkf-responsive-test/foundation/build/js/foundation.js",
+		"/Users/calvinh/Sites/GitHub/nkf-responsive-test/foundation/build/css/styles.css",
+		"/Users/calvinh/Sites/GitHub/nkf-responsive-test/foundation/build/css/app.css",
+		"/Users/calvinh/Sites/GitHub/nkf-responsive-test/foundation/scss/styles.scss",
+		"/Users/calvinh/Sites/GitHub/nkf-responsive-test/foundation/scss/app.scss",
+		"/Users/calvinh/Sites/GitHub/nkf-responsive-test/foundation/js/script.js",
+		"/Users/calvinh/Sites/GitHub/nkf-responsive-test/foundation/js/min/script-min.js",
+		"/Users/calvinh/Sites/GitHub/nkf-responsive-test/foundation/haml/_partial_primary_nav.haml",
+		"/Users/calvinh/Sites/GitHub/CodeKit/foundation/index.html",
+		"/Users/calvinh/Sites/GitHub/nkf-responsive-test/foundation/haml/_template_content.haml",
+		"/Users/calvinh/Sites/GitHub/nkf-responsive-test/foundation/build/index.html",
+		"/Users/calvinh/Sites/GitHub/nkf-responsive-test/foundation/haml/_template_home.haml",
+		"/Users/calvinh/Sites/GitHub/nkf-responsive-test/foundation/templates/_home.kit",
+		"/Users/calvinh/Sites/GitHub/nkf-responsive-test/foundation/source/haml/index.haml",
+		"/Users/calvinh/Sites/GitHub/nkf-responsive-test/foundation/source/haml/_template_home.haml",
+		"/Users/calvinh/Sites/GitHub/nkf-responsive-test/foundation/haml/_partial_slider.haml",
+		"/Users/calvinh/Sites/GitHub/nkf-responsive-test/foundation/source/haml/_partial_footer.haml",
+		"/Users/calvinh/Sites/GitHub/nkf-responsive-test/foundation/source/haml/_partial_slider.haml",
+		"/Users/calvinh/Sites/GitHub/nkf-responsive-test/foundation/source/haml/_partial_header.haml",
+		"/Users/calvinh/Sites/GitHub/nkf-responsive-test/foundation/source/scss/modules/_primary_nav.scss",
+		"/Users/calvinh/Sites/GitHub/nkf-responsive-test/foundation/source/scss/modules/_slider.scss",
+		"/Users/calvinh/Documents/1 - All Work in Progress/heatmap/source/sass/_lightbox.scss",
+		"/Users/calvinh/Documents/1 - All Work in Progress/heatmap/source/sass/table.scss",
+		"/Users/calvinh/Documents/1 - All Work in Progress/heatmap/source/sass/styles.scss",
+		"/Users/calvinh/Sites/Pantheon/Calvin/profiles/kidneys_distro/themes/custom/kidneys/sass/layouts/_fixed.scss",
+		"/Users/calvinh/Sites/Pantheon/Calvin/profiles/kidneys_distro/themes/custom/kidneys/sass/styles.scss",
+		"/Users/calvinh/Sites/Pantheon/Calvin/profiles/kidneys_distro/themes/custom/kidneys/sass/layouts/_fixed-too.scss",
+		"/Users/calvinh/Sites/Pantheon/Calvin/profiles/kidneys_distro/themes/custom/kidneys/sass/components/_blog.scss",
+		"/Users/calvinh/Sites/NKF/css/nkf.css",
+		"/Users/calvinh/Sites/Pantheon/Calvin/profiles/kidneys_distro/themes/custom/kidneys/sass/components/_blocks.scss",
+		"/Users/calvinh/Sites/NKF/css/nkf_v3.css",
+		"/Users/calvinh/Sites/Pantheon/Calvin/profiles/kidneys_distro/themes/custom/kidneys/sass/components/_offices.scss",
+		"/Users/calvinh/Sites/Pantheon/Calvin/profiles/kidneys_distro/themes/custom/kidneys/css/styles.css",
+		"/Users/calvinh/Sites/Pantheon/Calvin/profiles/kidneys_distro/themes/custom/kidneys/sass/components/_article.scss",
+		"/Users/calvinh/Sites/Pantheon/Calvin/sites/all/themes/nkf_scm_2015/scss/theme/_sidebar-second.scss",
+		"/Users/calvinh/Sites/Pantheon/Calvin/sites/all/themes/nkf_scm_2015/scss/theme/_main.scss",
+		"/Users/calvinh/Sites/Pantheon/Calvin/sites/all/themes/nkf_scm_2015/scss/theme/_body.scss",
+		"/Users/calvinh/Sites/Pantheon/Calvin/sites/all/themes/nkf_scm_2015/scss/theme/_primary-nav.scss",
+		"/Users/calvinh/Sites/Pantheon/Calvin/profiles/kidneys_distro/themes/custom/kidneys/sass/components/_popup.scss",
+		"/Users/calvinh/Sites/Pantheon/Calvin/profiles/kidneys_distro/themes/custom/kidneys/sass/components/products.scss",
+		"/Users/calvinh/Sites/Pantheon/Calvin/profiles/kidneys_distro/themes/custom/kidneys/sass/components/_img.scss",
+		"/Users/calvinh/Sites/Pantheon/Calvin/sites/all/themes/nkf_golf/scss/style.scss",
+		"/Users/calvinh/Sites/Pantheon/Calvin/sites/all/themes/nkf_scm_2015/scss/custom.scss",
+		"/Users/calvinh/Sites/Pantheon/Calvin/sites/all/themes/nkf_cars/scss/style.scss",
+		"/Users/calvinh/Sites/Pantheon/Calvin/sites/all/themes/nkf_cars/scss/_primary-nav.scss",
+		"/Users/calvinh/Sites/Pantheon/Calvin/sites/all/themes/nkf_golf/scss/_body.scss",
+		"/Users/calvinh/Sites/Pantheon/Calvin/sites/all/themes/nkf_cars/scss/_body.scss",
+		"/Users/calvinh/Sites/Pantheon/Calvin/sites/all/themes/nkf_golf/scss/_primary-nav.scss",
+		"/Users/calvinh/Sites/Pantheon/Calvin/sites/all/themes/nkf_golf/scss/_header.scss",
+		"/Users/calvinh/Sites/Pantheon/Calvin/sites/all/themes/nkf_cars/scss/_hero.scss",
+		"/Users/calvinh/Sites/Pantheon/Calvin/sites/all/themes/nkf_cars/scss/_stat.scss",
+		"/Users/calvinh/Sites/Pantheon/Calvin/sites/all/themes/nkf_cars/scss/_car-form.scss",
+		"/Users/calvinh/Sites/Pantheon/Calvin/sites/all/themes/nkf_cars/scss/_header.scss",
+		"/Users/calvinh/Sites/Pantheon/Calvin/sites/all/themes/nkf_golf/scss/_list.scss",
+		"/Users/calvinh/Sites/Pantheon/Calvin/profiles/kidneys_distro/themes/custom/kidneys/sass/components/_site.scss",
+		"/Users/calvinh/Sites/Pantheon/Calvin/sites/all/themes/nkf_scm_2015/scss/theme/_breadcrumb.scss",
+		"/Users/calvinh/Sites/Pantheon/Calvin/profiles/kidneys_distro/themes/custom/kidneys/sass/_init.scss",
+		"/Applications/MAMP/htdocs/www/drupal_pantheon/index.php",
+		"/Applications/MAMP/htdocs/www/dump/bigdump.php",
+		"/Users/calvinh/Sites/Git/Themes/drupal - howtos/; see https:::www.drupal.org:node:171205#features",
+		"/Users/calvinh/Sites/Pantheon/Calvin/profiles/kidneys_distro/themes/custom/kidneys/sass/components/_misc.scss",
+		"/Users/calvinh/Sites/Pantheon/Calvin/sites/all/themes/nkf_scm_2015/nkf_scm_2015.info",
+		"/Users/calvinh/Sites/Pantheon/Calvin/profiles/kidneys_distro/themes/custom/kidneys/kidneys.info",
+		"/Users/calvinh/Sites/Pantheon/Calvin/sites/all/themes/nkf_golf/nkf_golf.info",
+		"/Users/calvinh/Sites/Pantheon/Calvin/sites/all/themes/nkf_cars/nkf_cars.info",
+		"/Users/calvinh/Sites/Pantheon/Calvin/profiles/kidneys_distro/themes/custom/kidneys/sass/_normalize.scss",
+		"/Applications/MAMP/htdocs/www/drupal_pantheon/profiles/kidneys_distro/themes/custom/kidneys/sass/_normalize.scss",
+		"/Users/calvinh/Sites/Pantheon/Calvin/profiles/kidneys_distro/themes/custom/kidneys/theme-settings.php",
+		"/Users/calvinh/Sites/Pantheon/Calvin/sites/all/themes/nkf_scm_2015/templates/page.tpl.php",
+		"/Users/calvinh/Sites/Pantheon/Calvin/sites/all/themes/nkf_scm_2015/scss/theme/_footer.scss",
+		"/Users/calvinh/Sites/Pantheon/Calvin/sites/all/themes/nkf_scm_2015/scss/theme/_sidebar-first.scss",
+		"/Applications/MAMP/htdocs/www/drupal_pantheon/profiles/kidneys_distro/themes/custom/kidneys/templates/html.tpl.php",
+		"/Applications/MAMP/htdocs/www/drupal_pantheon/profiles/kidneys_distro/themes/custom/kidneys/kidneys.info",
+		"/Applications/MAMP/htdocs/www/drupal_pantheon/sites/all/themes/nkf_scm_2015/nkf_scm_2015.info",
+		"/Applications/MAMP/htdocs/www/drupal_pantheon/sites/all/themes/nkf_scm_2015/templates/page.tpl.php",
+		"/Applications/MAMP/htdocs/www/drupal/sites/all/themes/nkf_scm_2015/nkf_scm_2015.info",
+		"/Applications/MAMP/htdocs/www/drupal_pantheon/profiles/kidneys_distro/themes/custom/kidneys/templates/page.tpl.php",
+		"/Applications/MAMP/htdocs/www/drupal_pantheon/sites/all/themes/nkf_scm_2015/template.php",
+		"/Applications/MAMP/htdocs/www/drupal_pantheon/profiles/kidneys_distro/themes/custom/kidneys/css/styles.css",
+		"/Applications/MAMP/htdocs/www/drupal_pantheon/profiles/kidneys_distro/themes/custom/kidneys/sass/components/_misc.scss",
+		"/Applications/MAMP/htdocs/www/drupal/sites/all/themes/nkf_scm_2015/template.php",
+		"/Applications/MAMP/htdocs/www/drupal/sites/all/themes/nkf_scm_2015/scss/theme/_sidebar-first.scss",
+		"/Applications/MAMP/htdocs/www/drupal/sites/all/themes/zurb-foundation/template.php",
+		"/Applications/MAMP/htdocs/www/drupal_pantheon/profiles/kidneys_distro/themes/custom/kidneys/sass/_init.scss",
+		"/Applications/MAMP/htdocs/www/drupal_pantheon/profiles/kidneys_distro/themes/custom/kidneys/sass/components/_img.scss",
+		"/Users/calvinh/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/calvinh/Downloads/Assets/Build A Module/Drupal Theming/sites/themes/batcopy/template.php",
+		"/Users/calvinh/Sites/Git/pantheon/nkf-drupal-responsive/sites/all/themes/zurb-foundation/STARTER/template.php",
+		"/Users/calvinh/Downloads/Assets/Build A Module/Drupal Theming/sites/themes/batoverrides/color/preview.js",
+		"/Users/calvinh/Downloads/Assets/Build A Module/Drupal Theming/Drupal 7 Theming Essentials/batoverrides/steps/17.preview.js.add-dynamic-color-change.step",
+		"/Users/calvinh/Downloads/Assets/Build A Module/Drupal Theming/sites/themes/batoverrides/color/preview.css",
+		"/Users/calvinh/Downloads/Assets/Build A Module/Drupal Theming/Drupal 7 Theming Essentials/batoverrides/steps/16.preview.css.add-styling-to-preview.step",
+		"/Users/calvinh/Downloads/Assets/Build A Module/Drupal Theming/sites/themes/batoverrides/batoverrides.info",
+		"/Users/calvinh/Downloads/Assets/Build A Module/Drupal Theming/sites/themes/batoverrides/templates/template.php",
+		"/Users/calvinh/Downloads/Assets/Build A Module/Drupal Theming/sites/themes/batoverrides/color/preview.html",
+		"/Users/calvinh/Downloads/Assets/Build A Module/Drupal Theming/sites/themes/batoverrides/color/color.inc",
+		"/Users/calvinh/Downloads/Assets/Build A Module/Drupal Theming/sites/themes/batoverrides/css/colors.css",
+		"/Users/calvinh/Downloads/Assets/Build A Module/Drupal Theming/Drupal 7 Theming Essentials/batoverrides/steps/15.preview.html.add-element-to-preview.step",
+		"/Users/calvinh/Downloads/Assets/Build A Module/Drupal Theming/Drupal 7 Theming Essentials/batoverrides/steps/12.batoverrides.info.adding-setting-default.step",
+		"/Users/calvinh/Downloads/Assets/Build A Module/Drupal Theming/Drupal 7 Theming Essentials/bat/steps/15.bat.info.feature-toggling.step",
+		"/Applications/MAMP/htdocs/www/drupal/themes/bartik/color/preview.html",
+		"/Users/calvinh/Downloads/Assets/Build A Module/Drupal Theming/sites/themes/batoverrides/templates/page--anonymous.tpl.php",
+		"/Users/calvinh/Downloads/Assets/Build A Module/Drupal Theming/sites/themes/batoverrides/theme-settings.php",
+		"/Users/calvinh/Downloads/Assets/Build A Module/Drupal Theming/sites/themes/batoverrides/local.css",
+		"/Users/calvinh/Downloads/Assets/Build A Module/Drupal Theming/Drupal 7 Theming Essentials/batoverrides/steps/07.template.php.conditional-classes.step",
+		"/Users/calvinh/Downloads/Assets/Build A Module/Drupal Theming/Drupal 7 Theming Essentials/batoverrides/steps/06.template.php.adding-classes.step",
+		"/Applications/MAMP/htdocs/www/drupal/includes/image.inc",
+		"/Users/calvinh/Downloads/Assets/Build A Module/Drupal Theming/Drupal 7 Theming Essentials/batoverrides/steps/03.template.php.conditional-changes.step",
+		"/Users/calvinh/Downloads/Assets/Build A Module/Drupal Theming/Drupal 7 Theming Essentials/bat/steps/16.template.php.conditional-js-and-css.step",
+		"/Users/calvinh/Downloads/Assets/Build A Module/Drupal Theming/sites/themes/batoverrides/templates/node.tpl.php",
+		"/Users/calvinh/Downloads/Assets/Build A Module/Drupal Theming/sites/themes/bat/bat.info",
+		"/Users/calvinh/Downloads/Assets/Build A Module/Drupal Theming/sites/themes/bat/template.php",
+		"/Users/calvinh/Downloads/Assets/Build A Module/Drupal Theming/sites/themes/batcopy/batcopy.info",
+		"/Users/calvinh/Downloads/Assets/Build A Module/Drupal Theming/sites/themes/batcopy/templates/page.tpl.php",
+		"/Users/calvinh/Downloads/Assets/Build A Module/Drupal Theming/sites/themes/batcopy/templates/maintenance-page.tpl.php",
+		"/Users/calvinh/Downloads/Assets/Build A Module/Drupal Theming/sites/themes/batsub/batsub.info",
+		"/Users/calvinh/Downloads/Assets/Build A Module/Drupal Theming/sites/themes/batsub/css/style.css",
+		"/Users/calvinh/Downloads/Assets/Build A Module/Drupal Theming/Drupal 7 Theming Essentials/bat/steps/14.batsub.info.override-css-and-js-files.step",
+		"/Users/calvinh/Downloads/Assets/Build A Module/Drupal Theming/sites/themes/bat/style.css",
+		"/Users/calvinh/Downloads/Assets/Build A Module/Drupal Theming/sites/themes/bat/page.tpl.php",
+		"/Users/calvinh/Downloads/Assets/Build A Module/Drupal Theming/sites/themes/bat/bat.js"
+	],
+	"find":
+	{
+		"height": 54.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/calvinh/Downloads/Assets/Build A Module/Drupal Theming/sites/themes/batcopy",
+			"secondary_menu",
+			"<open files>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".top-bar",
+			".has-form",
+			"0.85",
+			"font-size",
+			"region",
+			"970",
+			"990",
+			"block-views-event-list-view-block .view-content",
+			"product",
+			"ul,",
+			"ul",
+			"product",
+			"appearances",
+			"appearance",
+			"a.button",
+			"$light-blue",
+			"h2",
+			"blue",
+			"h2",
+			"-moz",
+			"bord",
+			"border-box",
+			"css",
+			"site",
+			"navigation",
+			"content",
+			"sidebar",
+			"primary",
+			".donate",
+			"donate",
+			"organ",
+			"video",
+			"577b",
+			"559bb",
+			"h2",
+			"menu-block-2",
+			"menu-block",
+			"bartik_",
+			"input",
+			"nkf",
+			"app",
+			"sidebar",
+			"nkf-foundation",
+			"nkf_foundation",
+			"STARTER",
+			"css",
+			"zurb",
+			"secondary",
+			"main",
+			"main_menu",
+			"search",
+			"secondary",
+			"searc",
+			"search",
+			"secondary",
+			"1280x1080",
+			"19200x1080",
+			"1280x1080",
+			"top_bar_secondary_menu",
+			"help",
+			"secondary",
+			"top_bar_secondary_menu",
+			"header",
+			"region",
+			"header",
+			"content",
+			"660",
+			"320",
+			"head",
+			"<a href=",
+			" content=\"\"",
+			" name=\"",
+			"social",
+			".tob-bar-section",
+			"333333",
+			"58.75em",
+			".js",
+			"d8192a",
+			"e73242",
+			"page.tpl.php",
+			"logo",
+			"logo.pn",
+			"magic",
+			"magazine",
+			"video",
+			"strong",
+			"highlight",
+			"templates",
+			"../_shared/img/",
+			"excerpt",
+			"font-family",
+			"width",
+			"660",
+			"ol",
+			"rotating",
+			"main",
+			"238",
+			"height",
+			"seach",
+			"primary-nav",
+			".organ",
+			"sublist",
+			"featured",
+			"text-align",
+			".png);",
+			"url(/images/",
+			"background:",
+			"Y",
+			"X",
+			"W",
+			"V",
+			"U",
+			"T",
+			"S",
+			"R",
+			"Q",
+			"P",
+			"O",
+			"N",
+			"M",
+			"L",
+			"K",
+			"J",
+			"I",
+			"H",
+			"G",
+			"F",
+			"E"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"0.9",
+			"batcopy_",
+			"nkf_foundation",
+			"nkf-foundation",
+			"nkf_foundation",
+			"secondary_menu",
+			"1920x1080",
+			"19200x1080",
+			"1280x1080",
+			"660",
+			"%a{:href => ",
+			", :content => \"\"",
+			"{:name => \"",
+			"000000",
+			"61.875em",
+			"D6521E",
+			"f15e22",
+			"p",
+			"images/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "foundation.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"NKF-Responsive/columns.haml"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 259.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

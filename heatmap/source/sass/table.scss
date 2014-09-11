@@ -1,0 +1,107 @@
+html{
+    font-weight:normal;
+    font-size: 62.5%; // font-size reset
+    font-family:sans-serif;
+}
+//font-size reset
+@mixin font-size($sizeValue: 1.6) {
+  font-size: ($sizeValue * 10) + px;
+  font-size: $sizeValue + rem;
+}
+//color variables
+$white:#fff;
+$black:#000;
+$green:#018241;
+$yellow: #FEDC00;
+$orange: #FAAD1D;
+$red: #EC2126;
+$dark-red: #9E2420;
+//fonts
+h1,h2,h3,h4,h5,h6,p,a{
+    font-weight: normal;
+}
+table{border:0;//1px solid #000
+    tr{
+
+    }
+    th,td{
+        width:14.28571428571429%;
+        padding:10px;
+        @include box-sizing(border-box);
+        @include font-size(1.55);
+        border:1px solid;
+    }
+    th{
+        &.gfr{
+            p{
+                @include transform(rotate(-90deg));
+                padding:0 10px;
+                margin:0;
+            }
+        }
+    }
+    td{
+        &.green{
+            padding:0;
+            background-color:$green;
+            a{
+                @include box-sizing(border-box);
+                color:$white;
+                text-decoration:none;
+                padding:10px;
+                background-color:$green;
+                display:block;
+                width:100%;}
+        }
+        &.yellow{
+            padding:0;
+            background-color:$yellow;
+            a{
+                @include box-sizing(border-box);
+                color:$black;
+                text-decoration:none;
+                padding:10px;
+                background-color:$yellow;
+                display:block;
+                width:100%;}
+        }
+        &.orange{
+            padding:0;
+            background-color:$orange;
+            a{
+                @include box-sizing(border-box);
+                color:$black;
+                text-decoration:none;
+                padding:10px;
+                background-color:$orange;
+                display:block;
+                width:100%;
+            }
+        }
+        &.red{
+            padding:0;
+            background-color:$red;
+            a{
+                @include box-sizing(border-box);
+                color:$white;
+                text-decoration:none;
+                padding:10px;
+                background-color:$red;
+                display:block;
+                width:100%;}
+        }
+        &.dark-red{
+            padding:0;
+            background-color:$dark-red;
+            a{
+                @include box-sizing(border-box);
+                color:$white;
+                text-decoration:none;
+                padding:10px;
+                background-color:$dark-red;
+                display:block;
+                width:100%;}
+        }
+
+    }
+}

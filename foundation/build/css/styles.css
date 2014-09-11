@@ -1,0 +1,123 @@
+.primary_nav {
+  background: #000; }
+  .primary_nav .top-bar {
+    margin-bottom: 0;
+    background: 000; }
+    @media only screen and (min-width: 740px) and (max-width: 1029px) {
+      .primary_nav .top-bar {
+        height: 80px; } }
+    @media only screen and (max-width: 640px) {
+      .primary_nav .top-bar {
+        height: 165px; } }
+    .primary_nav .top-bar .button, .primary_nav .top-bar button {
+      padding-top: 0.2rem;
+      padding-bottom: 0.2rem; }
+    .primary_nav .top-bar .title-area {
+      z-index: 9999; }
+      @media only screen and (min-width: 740px) and (max-width: 1029px) {
+        .primary_nav .top-bar .title-area {
+          height: 80px; } }
+      @media only screen and (max-width: 640px) {
+        .primary_nav .top-bar .title-area {
+          height: 120px; } }
+      .primary_nav .top-bar .title-area h1 {
+        width: 80px;
+        background: #fff;
+        padding: 20px 0;
+        border-left: 1px solid #eee;
+        border-right: 1px solid #eee;
+        border-bottom: 1px solid #eee; }
+        @media only screen and (min-width: 641px) and (max-width: 740px) {
+          .primary_nav .top-bar .title-area h1 {
+            width: 120px; } }
+        @media only screen and (max-width: 640px) {
+          .primary_nav .top-bar .title-area h1 {
+            height: 120px;
+            width: 100%;
+            border: none;
+            text-align: center; } }
+        .primary_nav .top-bar .title-area h1 a {
+          width: 100%; }
+          @media only screen and (min-width: 740px) and (max-width: 1029px) {
+            .primary_nav .top-bar .title-area h1 a {
+              width: 100%; } }
+          @media only screen and (max-width: 640px) {
+            .primary_nav .top-bar .title-area h1 a {
+              width: 100%; } }
+        @media only screen and (max-width: 640px) {
+          .primary_nav .top-bar .title-area h1 img {
+            height: 85px;
+            width: auto; } }
+      .primary_nav .top-bar .title-area .toggle-topbar {
+        z-index: 9999; }
+        .primary_nav .top-bar .title-area .toggle-topbar a {
+          color: #000; }
+          .primary_nav .top-bar .title-area .toggle-topbar a span::after {
+            margin-top: -16px;
+            -webkit-box-shadow: 0 10px 0 1px #000,0 16px 0 1px #000,0 22px 0 1px #000;
+            box-shadow: 0 10px 0 1px #000,0 16px 0 1px #000,0 22px 0 1px #000; }
+    .primary_nav .top-bar.expanded {
+      height: 360px; }
+    .primary_nav .top-bar .top-bar-section .has-form {
+      padding-top: 0;
+      background: none; }
+      @media only screen and (max-width: 640px) {
+        .primary_nav .top-bar .top-bar-section .has-form {
+          padding: 8px; } }
+    @media only screen and (min-width: 740px) and (max-width: 1029px) {
+      .primary_nav .top-bar .top-bar-section {
+        margin-left: 100px; } }
+    @media only screen and (min-width: 641px) and (max-width: 740px) {
+      .primary_nav .top-bar .top-bar-section {
+        margin-left: 120px; } }
+    @media only screen and (max-width: 640px) {
+      .primary_nav .top-bar .top-bar-section {
+        background: #333; } }
+    .primary_nav .top-bar .top-bar-section ul {
+      background: #000; }
+    .primary_nav .top-bar .right {
+      margin-left: 0; }
+      @media only screen and (min-width: 641px) and (max-width: 740px) {
+        .primary_nav .top-bar .right {
+          margin-left: 0;
+          width: 100%; } }
+      @media only screen and (max-width: 640px) {
+        .primary_nav .top-bar .right {
+          margin-left: 0; } }
+      @media only screen and (max-width: 640px) {
+        .primary_nav .top-bar .right li {
+          width: 50%;
+          float: left; } }
+      .primary_nav .top-bar .right li a {
+        font-weight: normal; }
+    .primary_nav .top-bar .left {
+      margin-left: 80px; }
+      @media only screen and (min-width: 740px) and (max-width: 1029px) {
+        .primary_nav .top-bar .left {
+          margin-left: 0; } }
+      @media only screen and (min-width: 641px) and (max-width: 740px) {
+        .primary_nav .top-bar .left {
+          margin-left: 0; } }
+      @media only screen and (max-width: 640px) {
+        .primary_nav .top-bar .left {
+          margin-left: 0; } }
+      @media only screen and (max-width: 640px) {
+        .primary_nav .top-bar .left li {
+          width: 50%;
+          float: left; } }
+      .primary_nav .top-bar .left li a {
+        font-weight: normal;
+        background: #000; }
+    .primary_nav .top-bar .button {
+      line-height: 24px; }
+
+.slider img {
+  width: 100%;
+  height: auto; }
+
+.content h2,
+main h2 {
+  font-size: 1.3125em; }
+.content li,
+main li {
+  list-style-position: inside; }

@@ -1,0 +1,220 @@
+!!!5
+%html
+    %head
+        %title Untitled Document
+        //Add jQuery library
+        %script{:type => "text/javascript", :src => "../bower_components/fancybox/lib/jquery-1.9.0.min.js"}
+        //Add mousewheel plugin (this is optional)
+        %script{:type => "text/javascript", :src => "../bower_components/fancybox/lib/jquery.mousewheel-3.0.6.pack.js"}
+        //Add fancyBox
+        %link{:rel => "stylesheet", :href => "../bower_components/fancybox/source/jquery.fancybox.css?v=2.1.5", :type => "text/css", :media => "screen"}
+        %script{:type => "text/javascript", :src => "../bower_components/fancybox/source/jquery.fancybox.pack.js?v=2.1.5"}
+        //Optionally add helpers - button, thumbnail and/or media
+        %link{:rel => "stylesheet", :href => "../bower_components/fancybox/source/helpers/jquery.fancybox-buttons.css?v=1.0.5", :type => "text/css", :media => "screen"}
+        %script{:type => "text/javascript", :src => "../bower_components/fancybox/source/helpers/jquery.fancybox-buttons.js?v=1.0.5"}
+        %script{:type => "text/javascript", :src => "../bower_components/fancybox/source/helpers/jquery.fancybox-media.js?v=1.0.6"}
+        %link{:rel => "stylesheet", :href => "../bower_components/fancybox/source/helpers/jquery.fancybox-thumbs.css?v=1.0.7", :type => "text/css", :media => "screen"}
+        %script{:type => "text/javascript", :src => "../bower_components/fancybox/source/helpers/jquery.fancybox-thumbs.js?v=1.0.7"}
+        %link{:rel => "stylesheet", :href => "css/styles.css", :type => "text/css", :media => "screen"}
+        %script{:type => "text/javascript"}
+            $(document).ready(function() {$(".various").fancybox({
+            maxWidth    : 800,
+            maxHeight   : 600,
+            fitToView   : true,
+            width       : '70%',
+            height      : 'auto',
+            autoSize    : true,
+            closeClick  : true,
+            openEffect  : 'elastic',
+            closeEffect : 'fade',
+            padding     : 0,
+            closeBtn    : false
+            });
+            });
+    %body
+        #inline-a1g1{:style => "display:none;max-width:800px; width:100%;"}
+            %h3 G1 | &ge; 90 Monitor 1 
+            %h4 A1 | Normal to mildly increased &lt; 30 mg/g &lt; 30mg/mmol
+            %p A 44-year old woman with autosomal dominant kidney disease presents to your clinic for routine follow-up. Since her last follow-up 6 months ago, she has had some back discomfort. Her blood pressure is 128/76. Her eGFR has remained stable at 110 ml/min/1.73 m2, and ACR shows 20 mg/g of albuminuria. Based on the heat map, you also know that 1) her CKD can be classified as G1/A1; 2) her risk of progression is low; 3) she should be monitored by you at least once per year.
+            %a{:href => "javascript:$.fancybox.close();"} Close
+        #inline-a2g1{:style => "display:none;max-width:800px; width:100%;"}
+            %h3 G1 | &ge; 90 Monitor 1 
+            %h4 A2 | Moderately increased 30 &ndash; 29 mg/g 3 &ndash; 29 mg/mmol
+            %p 
+            %a{:href => "javascript:$.fancybox.close();"} Close
+        #inline-a3g1{:style => "display:none;max-width:800px; width:100%;"}
+            %h3 G1 | &ge; 90 Monitor 1 
+            %h4 A3 | Severly increased &ge; 300 mg/g &ge; 30mg/mmol
+            %p 
+            %a{:href => "javascript:$.fancybox.close();"} Close
+        #inline-a1g2{:style => "display:none;max-width:800px; width:100%;"}
+            %h3 G2 | Mildly Decreased
+            %h4 A1 | Normal to mildly increased &lt; 30 mg/g &lt; 30mg/mmol
+            %p 
+            %a{:href => "javascript:$.fancybox.close();"} Close
+        #inline-a2g2{:style => "display:none;max-width:800px; width:100%;"}
+            %h3 G2 | Mildly Decreased
+            %h4 A2 | Moderately increased 30 &ndash; 29 mg/g 3 &ndash; 29 mg/mmol
+            %p A 55-year old obese man has a history of hypertension for which he takes a diuretic and ACE-inhibitor. He was hospitalized for acute kidney injury (AKI) in the setting of frequent ibuprofen use 6 months ago. His eGFR prior to his AKI was >90 ml/min/1.73 m2; his prior ACR test revealed no albuminuria. However, his eGFR has now stabilized to 65 ml/min/1.73 m2 , and he has had persistent albuminuria of ~150 mg/g. Based on the heat map, you know that 1) his CKD can be classified as G2/A2; 2) his risk of progression is moderate; and 4) he should be monitored by you at least once per year.
+            %a{:href => "javascript:$.fancybox.close();"} Close
+        #inline-a3g2{:style => "display:none;max-width:800px; width:100%;"}
+            %h3 G2 | Mildly Decreased
+            %h4 A3 | Severly increased &ge; 300 mg/g &ge; 30mg/mmol
+            %p 
+            %a{:href => "javascript:$.fancybox.close();"} Close
+        #inline-a1g3a{:style => "display:none;max-width:800px; width:100%;"}
+            %h3 G3a | Mildly to moderately decreased 45 &ndash; 59
+            %h4 A1 | Normal to mildly increased &lt; 30 mg/g &lt; 30mg/mmol
+            %p 
+            %a{:href => "javascript:$.fancybox.close();"} Close
+        #inline-a2g3a{:style => "display:none;max-width:800px; width:100%;"}
+            %h3 G3a | Mildly to moderately decreased 45 &ndash; 59
+            %h4 A2 | Moderately increased 30 &ndash; 29 mg/g 2 &ndash; 29 mg/mmol
+            %p A 60-year old man with long-standing hypertension has been a patient in your clinic for one year.  Within that year, his eGFR results have remained ~50 mL/min/1.732.  His albuminuria is 50 mg/g.   On exam, he has a blood pressure of 156/92.  He is obese.  The remainder of his exam is unremarkable. Based on the heat map, you also know that 1) his CKD can be classified as G3a/A2; 2) his risk of CKD progression is high; and 3) he should be monitored by you at least twice per year.
+            %a{:href => "javascript:$.fancybox.close();"} Close
+        #inline-a3g3a{:style => "display:none;max-width:800px; width:100%;"}
+            %h3 G3a | Mildly to moderately decreased 45 &ndash; 59
+            %h4 A3 | Severly increased &ge; 300 mg/g &ge; 30mg/mmol
+            %p 
+            %a{:href => "javascript:$.fancybox.close();"} Close
+        #inline-a1g3b{:style => "display:none;max-width:800px; width:100%;"}
+            %h3 G3b | Moderately to severly decreased 30 &ndash; 4
+            %h4 A1 | Normal to mildly increased &lt; 30 mg/g &lt; 30mg/mmol
+            %p 
+            %a{:href => "javascript:$.fancybox.close();"} Close
+        #inline-a2g3b{:style => "display:none;max-width:800px; width:100%;"}
+            %h3 G3b | Moderately to severly decreased 30 &ndash; 4
+            %h4 A2 | Moderately increased 30 &ndash; 29 mg/g 2 &ndash; 29 mg/mmol
+            %p 
+            %a{:href => "javascript:$.fancybox.close();"} Close
+        #inline-a3g3b{:style => "display:none;max-width:800px; width:100%;"}
+            %h3 G3b | Moderately to severly decreased 30 &ndash; 4
+            %h4 A3 | Severly increased &ge; 300 mg/g &ge; 30mg/mmol
+            %p A 53-year old man with type 2 diabetes and hypertension presents to your clinic for follow-up. His eGFR has been around ~40 ml/min/1.73 m2 for the past two years. His ACR test shows he has 380 mg/g of albuminuria. On exam, his blood pressure is 150/90 with a heart rate of 78 beats per min. His BMI is 32 kg/ m2. He has 1+ pitting edema along his lower extremities and decreased sensation along the dorsal aspect of his feet. Based on the heat map, you know that: 1) his CKD can be classified as G3b/A3; 2) his risk of progressing to kidney failure is very high; 3) referral to a nephrologist is recommended; and 4) he should be monitored at least 3 times per year.
+            %a{:href => "javascript:$.fancybox.close();"} Close
+        #inline-a1g4{:style => "display:none;max-width:800px; width:100%;"}
+            %h3 G4 | Kidney Failure 15 &ndash; 29
+            %h4 A1 | Normal to mildly increased &lt; 30 mg/g &lt; 30mg/mmol
+            %p 
+            %a{:href => "javascript:$.fancybox.close();"} Close
+        #inline-a2g4{:style => "display:none;max-width:800px; width:100%;"}
+            %h3 G4 | Kidney Failure 15 &ndash; 29
+            %h4 A2 | Moderately increased 30 &ndash; 29 mg/g 2 &ndash; 29 mg/mmol
+            %p 
+            %a{:href => "javascript:$.fancybox.close();"} Close
+        #inline-a3g4{:style => "display:none;max-width:800px; width:100%;"}
+            %h3 G4 | Kidney Failure 15 &ndash; 29
+            %h4 A3 | Severly increased &ge; 300 mg/g &ge; 30mg/mmol
+            %p A 35-year old woman presents with type 1 diabetes, hypertension, and dyslipidemia. She is on an ACE-inhibitor with good blood pressure control. Within the past 3 years, her eGFR has dropped from 46 mL/min/1.732 to 28 mL/min/1.73 m2. Her current albuminuria consistently remains &ge;300 mg/g. Her lab results reveal that she has recently developed CKD-related bone and mineral disease, with an intact PTH of 220 pg/ml and serum phosphorus of 4.8 mg/dl. Based on the heat map, you know that: 1) her CKD can be classified as G4/A3; 2) her risk of progression is very high; 3)  referral to a nephrologist is recommended; and 4) she should be monitored 4 or more times per year.
+            %a{:href => "javascript:$.fancybox.close();"} Close
+        #inline-a1g5{:style => "display:none;max-width:800px; width:100%;"}
+            %h3 G5 | Kidney Failure &lt; 15
+            %h4 A1 | Normal to mildly increased &lt; 30 mg/g &lt; 30mg/mmol
+            %p 
+            %a{:href => "javascript:$.fancybox.close();"} Close
+        #inline-a2g5{:style => "display:none;max-width:800px; width:100%;"}
+            %h3 G5 | Kidney Failure &lt; 15
+            %h4 A2 | Moderately increased 30 &ndash; 29 mg/g 2 &ndash; 29 mg/mmol
+            %p 
+            %a{:href => "javascript:$.fancybox.close();"} Close
+        #inline-a3g5{:style => "display:none;max-width:800px; width:100%;"}
+            %h3 G5 | Kidney Failure &lt; 15
+            %h4 A3 | Severly increased &ge; 300 mg/g &ge; 30mg/mmol
+            %p 
+            %a{:href => "javascript:$.fancybox.close();"} Close
+        %table{:border => "0", :cellpadding => "0", :cellspacing => "0", :width => "100%"}
+            %tr{:style => "border:0;"}
+                %th{:colspan => "4", :rowspan => "4", :scope => "col", :style => "border:0;"}
+                %th{:colspan => "3", :scope => "col"}
+                    Albuminuria categories
+                    %br
+                    Description and range
+            %tr
+                %td{:align => "center", :valign => "middle"}
+                    %strong A1
+                %td{:align => "center", :valign => "middle"}
+                    %strong A2
+                %td{:align => "center", :valign => "middle"}
+                    %strong A3
+            %tr
+                %td{:align => "center", :valign => "middle"} Normal to mildly increased
+                %td{:align => "center", :valign => "middle"} Moderately increased
+                %td Severely increased
+            %tr
+                %td{:align => "center", :valign => "middle"}
+                    &lt; 30 mg/g
+                    %br
+                    &lt; 3 mg/mmol
+                %td{:align => "center", :valign => "middle"}
+                    30 &ndash; 29 mg/g
+                    %br
+                    3 &ndash; 29 mg/mmol
+                %td{:align => "center", :valign => "middle"}
+                    &ge; 300 mg/g
+                    %br
+                    &ge; 30mg/mmol
+            %tr
+                %th{:rowspan => "6", :scope => "col", :class => "gfr"}
+                    %p 
+                        GFR categories (ml/min/1.73 m
+                        %sup 2
+                        ) Description and range
+                %td{:align => "center", :valign => "middle"} G1
+                %td{:align => "center", :valign => "middle"} &ge; 90
+                %td{:align => "center", :valign => "middle"} Monitor 1
+                %td.green{:align => "center", :valign => "middle"}
+                    %a.various{:href => "#inline-a1g1"} Monitor 1
+                %td.yellow{:align => "center", :valign => "middle"} 
+                    %a.various{:href => "#inline-a2g1"} Monitor 1
+                %td.orange{:align => "center", :valign => "middle"} 
+                    %a.various{:href => "#inline-a3g1"} Refer* 2
+            %tr
+                %td{:align => "center", :valign => "middle"} G2
+                %td{:align => "center", :valign => "middle"} Mildly decreased
+                %td{:align => "center", :valign => "middle"} 60 &ndash; 90
+                %td.green{:align => "center", :valign => "middle"}
+                    %a.various{:href => "#inline-a1g2"} Monitor 1
+                %td.yellow{:align => "center", :valign => "middle"}
+                    %a.various{:href => "#inline-a2g2"} Monitor 1
+                %td.orange{:align => "center", :valign => "middle"}
+                    %a.various{:href => "#inline-a3g2"} Refer* 2
+            %tr
+                %td{:align => "center", :valign => "middle"} G3a
+                %td{:align => "center", :valign => "middle"} Mildly to moderately decreased
+                %td{:align => "center", :valign => "middle"} 45 &ndash; 59
+                %td.yellow{:align => "center", :valign => "middle"}
+                    %a.various{:href => "#inline-a1g3a"} Monitor 1
+                %td.orange{:align => "center", :valign => "middle"}
+                    %a.various{:href => "#inline-a2g3a"} Monitor 2
+                %td.red{:align => "center", :valign => "middle"}
+                    %a.various{:href => "#inline-a3g3a"} Refer 3
+            %tr
+                %td{:align => "center", :valign => "middle"} G3b
+                %td{:align => "center", :valign => "middle"} Moderately to severely decreased
+                %td{:align => "center", :valign => "middle"} 30 &ndash; 4
+                %td.orange{:align => "center", :valign => "middle"}
+                    %a.various{:href => "#inline-a1g3b"} Monitor 2
+                %td.red{:align => "center", :valign => "middle"}
+                    %a.various{:href => "#inline-a2g3b"} Monitor 3
+                %td.red{:align => "center", :valign => "middle"}
+                    %a.various{:href => "#inline-a3g3b"} Refer 3
+            %tr
+                %td{:align => "center", :valign => "middle"} G4
+                %td{:align => "center", :valign => "middle"} Severely decreased
+                %td{:align => "center", :valign => "middle"} 15 &ndash; 29
+                %td.red{:align => "center", :valign => "middle"}
+                    %a.various{:href => "#inline-a1g4"} Refer 3
+                %td.red{:align => "center", :valign => "middle"}
+                    %a.various{:href => "#inline-a2g4"} Refer 3
+                %td.dark-red{:align => "center", :valign => "middle"}
+                    %a.various{:href => "#inline-a3g4"} Refer 4+
+            %tr
+                %td{:align => "center", :valign => "middle"} G5
+                %td{:align => "center", :valign => "middle"} Kidney Failure
+                %td{:align => "center", :valign => "middle"} &lt; 15
+                %td.dark-red{:align => "center", :valign => "middle"}
+                    %a.various{:href => "#inline-a1g5"} Refer 4+
+                %td.dark-red{:align => "center", :valign => "middle"}
+                    %a.various{:href => "#inline-a2g5"} Refer 4+
+                %td.dark-red{:align => "center", :valign => "middle"}
+                    %a.various{:href => "#inline-a3g5"} Refer 4+
